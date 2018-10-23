@@ -1,0 +1,11 @@
+C:\Users\vinni\Desktop\Exercicios\Exercicios\bin\Debug\netcoreapp2.1\Exercicios.deps.json
+C:\Users\vinni\Desktop\Exercicios\Exercicios\bin\Debug\netcoreapp2.1\Exercicios.runtimeconfig.json
+C:\Users\vinni\Desktop\Exercicios\Exercicios\bin\Debug\netcoreapp2.1\Exercicios.runtimeconfig.dev.json
+C:\Users\vinni\Desktop\Exercicios\Exercicios\bin\Debug\netcoreapp2.1\Exercicios.dll
+C:\Users\vinni\Desktop\Exercicios\Exercicios\bin\Debug\netcoreapp2.1\Exercicios.pdb
+C:\Users\vinni\Desktop\Exercicios\Exercicios\obj\Debug\netcoreapp2.1\Exercicios.csprojAssemblyReference.cache
+C:\Users\vinni\Desktop\Exercicios\Exercicios\obj\Debug\netcoreapp2.1\Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\vinni\Desktop\Exercicios\Exercicios\obj\Debug\netcoreapp2.1\Exercicios.AssemblyInfoInputs.cache
+C:\Users\vinni\Desktop\Exercicios\Exercicios\obj\Debug\netcoreapp2.1\Exercicios.AssemblyInfo.cs
+C:\Users\vinni\Desktop\Exercicios\Exercicios\obj\Debug\netcoreapp2.1\Exercicios.dll
+C:\Users\vinni\Desktop\Exercicios\Exercicios\obj\Debug\netcoreapp2.1\Exercicios.pdb
